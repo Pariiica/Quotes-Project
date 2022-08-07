@@ -1,0 +1,23 @@
+body{
+    background-color: #2B4865;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 150px 300px;
+    font-size: xx-large;
+    
+}
+.container{
+    background-color:#002B5B;
+    color: white;
+    text-align: center;
+    padding: 100px 50px;
+    border-radius: 20px;
+    border-top: 10px solid #256D85;
+}
+#button{
+    background-color:#256D85;
+    padding: 10px 17px;
+    border-radius: 20px;
+    float:left;
+    margin-top: 60px;
+    cursor: pointer;
+}
